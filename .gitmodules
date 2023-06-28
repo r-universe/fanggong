@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "flipdownWidgets"]
 	path = flipdownWidgets
 	url = https://github.com/fanggong/flipdownwidgets
-	shallow = true
-	registered = true
 [submodule "okxAPI"]
 	path = okxAPI
 	url = https://github.com/fanggong/okxapi
-	shallow = true
-	registered = true
